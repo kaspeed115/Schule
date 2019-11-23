@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=AMPEL
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ AMPEL\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=AMPEL()
+comment2.params=
+comment2.target=void\ RotSetzen()
+comment3.params=
+comment3.target=void\ RotgelbSetzen()
+comment4.params=
+comment4.target=void\ GruenSetzen()
+comment5.params=
+comment5.target=void\ GelbSetzen()
+comment6.params=
+comment6.target=void\ Weiterschalten()
+comment7.params=xNeu\ yNeu
+comment7.target=void\ PositionSetzen(int,\ int)
+comment8.params=ausrichtung
+comment8.target=void\ AmpelAnordnen(char)
+numComments=9

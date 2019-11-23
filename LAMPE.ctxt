@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=LAMPE
+comment1.params=
+comment1.target=LAMPE()
+comment1.text=\r\n\ Standardkonstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ LAMPE.\r\n\ Er\ erzeugt\ eine\ scharze\ Lampe\ in\ der\ Zelle\ (0\ /\ 0)\ des\ Fensters.\r\n\ Das\ Fenster\ wird\ bei\ Bedarf\ angelegt.\r\n
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics)
+comment3.params=
+comment3.target=void\ Zeichne()
+comment3.text=\r\n\ Zeichnet\ die\ Lampe.\r\n
+comment4.params=neueFarbe
+comment4.target=void\ FarbeSetzen(java.lang.String)
+comment4.text=\r\n\ Setzt\ die\ Farbe\ der\ Lampe.\r\n\ @param\ neueFarbe\ die\ neue\ Farbe\ der\ Lampe\r\n
+comment5.params=x\ y
+comment5.target=void\ PositionSetzen(int,\ int)
+comment5.text=\r\n\ Setzt\ die\ Position\ der\ Lampe.\ Der\ Ursprung\ liegt\ in\ der\ Mitte\ des\r\n\ Fensters,\ die\ y-Achse\ zeigt\ nach\ unten.\ (x\ /y)\ bedeutet\ das\r\n\ K&auml;stchen\ rechts\ unterhalb\ der\ Gitterlinien.\r\n\ @param\ x\ x-Position\r\n\ @param\ y\ y-Position\r\n
+numComments=6

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=FUSSGAENGERAMPEL
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ FUSSGAENGERAMPEL\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=FUSSGAENGERAMPEL()
+comment2.params=
+comment2.target=void\ RotSetzen()
+comment3.params=
+comment3.target=void\ GruenSetzen()
+comment4.params=xNeu\ yNeu
+comment4.target=void\ PositionSetzen(int,\ int)
+comment5.params=
+comment5.target=void\ Weiterschalten()
+comment6.params=ausrichtung
+comment6.target=void\ AmpelAnordnen(char)
+numComments=7
